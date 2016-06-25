@@ -1,0 +1,1 @@
+xcopy cmake.dir\x-game\*.* *.txt /e /y
